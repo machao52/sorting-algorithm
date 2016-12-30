@@ -19,14 +19,11 @@ public class BubbleSort {
 	 * @param numbers
 	 */
 	public static void bubbleSortPrimary(int [] numbers){
-		int temp=0;
 		int size=numbers.length;
 		for(int i=0;i<size-1;i++){
 			for(int y=i+1;y<size;y++){
 				if(numbers[i]>numbers[y]){
-					temp=numbers[i];
-					numbers[i]=numbers[y];
-					numbers[y]=temp;
+					swap(numbers,i,y);
 				}
 			}
 		}
@@ -37,14 +34,11 @@ public class BubbleSort {
 	 * @param numbers
 	 */
 	public static void bubbleSortNormal(int [] numbers){
-		int temp=0;
 		int size=numbers.length;
 		for(int i=0;i<size-1;i++){
 			for(int y=1;y<size;y++){
 				if(numbers[y-1]>numbers[y]){
-					temp=numbers[y-1];
-					numbers[y-1]=numbers[y];
-					numbers[y]=temp;
+					swap(numbers,y-1,y);
 				}
 			}
 		}
@@ -55,22 +49,28 @@ public class BubbleSort {
 	 * @param numbers
 	 */
 	public static void bubbleSortOptimize(int [] numbers){
-		int temp=0;
 		int size=numbers.length;
 		boolean flag=true;
 		for(int i=0;i<size-1 && flag;i++){
 			flag=false;
 			for(int y=1;y<size;y++){
 				if(numbers[y-1]>numbers[y]){
-					temp=numbers[y-1];
-					numbers[y-1]=numbers[y];
-					numbers[y]=temp;
+					swap(numbers,y-1,y);
 					flag=true;
 				}
 			}
 		}
 	}
 	
+	/**
+	 * 交换顺序
+	 */
+	public static void swap(int [] numbers,int i,int y){
+		int temp=0;
+		temp=numbers[i];
+		numbers[i]=numbers[y];
+		numbers[y]=temp;
+	}
 	
 	public static void main(String[] args) {
 		int [] numbers = Numbers.NUMBERS;

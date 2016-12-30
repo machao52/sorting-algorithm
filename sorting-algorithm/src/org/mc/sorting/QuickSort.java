@@ -1,5 +1,6 @@
 package org.mc.sorting;
 
+import java.util.Arrays;
 
 /**
  * @author machao
@@ -10,5 +11,55 @@ package org.mc.sorting;
 public class QuickSort {
 	
 	
+	public static void Qsort(int [] numbers,int low,int high){
+		
+		//枢轴(左边的值比它小,右边的值比它大的位置.)
+		int pivot;
+		if(low<high){
+			pivot = partition(numbers,low,high);
+			Qsort(numbers,low,pivot-1);
+			Qsort(numbers,pivot+1,high);
+		}
+	}
+	
+	
+	public static int partition(int [] numbers,int low,int high){
+		
+		int pivotValue=numbers[low];
+		int temp=low;
+	    while(low<high){
+	    	while(low<high && numbers[high]>=pivotValue){
+	    		high--;
+	    	}
+	    	if(numbers[high]<pivotValue){
+	    		swap(numbers,temp,high);
+	    		temp=high;
+	    	}
+	    	while(low<high && numbers[low]<=pivotValue){
+	    		low++;
+	    	}
+	    	if(numbers[low]>pivotValue){
+	    		swap(numbers,temp,low);
+	    		temp=low;
+	    	}
+	    }
+		return low;
+	}
+	
+	/**
+	 * 交换顺序
+	 */
+	public static void swap(int [] numbers,int i,int y){
+		int temp=0;
+		temp=numbers[i];
+		numbers[i]=numbers[y];
+		numbers[y]=temp;
+	}
+	
+	public static void main(String[] args) {
+		int [] numbers = Numbers.NUMBERS;
+		Qsort(numbers,0,numbers.length-1);
+		System.out.println(Arrays.toString(numbers));
+	}
 
 }
