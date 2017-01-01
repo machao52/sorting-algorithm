@@ -63,7 +63,7 @@ public class BubbleSort {
 	}
 	
 	/**
-	 * 交换顺序
+	 * 交换位置
 	 */
 	public static void swap(int [] numbers,int i,int y){
 		int temp=0;
@@ -73,11 +73,11 @@ public class BubbleSort {
 	}
 	
 	public static void main(String[] args) {
-		int [] numbers = Numbers.NUMBERS;
+		int [] numbers = Numbers.NUMBERS2;
 		long startTime=System.nanoTime();
-		//bubbleSortPrimary(numbers);
+		bubbleSortPrimary(numbers);
 		//bubbleSortNormal(numbers);
-		bubbleSortOptimize(numbers);
+		//bubbleSortOptimize(numbers);
 		long endTime=System.nanoTime();
 		System.out.println(Arrays.toString(numbers));
 		System.out.println("time: "+(endTime-startTime)+" ns");
