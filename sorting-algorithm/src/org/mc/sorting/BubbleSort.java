@@ -53,7 +53,7 @@ public class BubbleSort {
 		boolean flag=true;
 		for(int i=0;i<size-1 && flag;i++){
 			flag=false;
-			for(int y=1;y<size;y++){
+			for(int y=1;y<size-i;y++){
 				if(numbers[y-1]>numbers[y]){
 					swap(numbers,y-1,y);
 					flag=true;
@@ -75,9 +75,9 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		int [] numbers = Numbers.NUMBERS2;
 		long startTime=System.nanoTime();
-		bubbleSortPrimary(numbers);
+		//bubbleSortPrimary(numbers);
 		//bubbleSortNormal(numbers);
-		//bubbleSortOptimize(numbers);
+		bubbleSortOptimize(numbers);
 		long endTime=System.nanoTime();
 		System.out.println(Arrays.toString(numbers));
 		System.out.println("time: "+(endTime-startTime)+" ns");

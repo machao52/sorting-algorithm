@@ -41,14 +41,13 @@ public class HeapSort {
 			if(y<m && numbers[y]<numbers[y+1]){
 				y++;
 			}
-			if(numbers[s]>=numbers[y]){
+			if(temp>=numbers[y]){
 				break;
 			}
 			numbers[s]=numbers[y];
 			s=y; //接着遍历它的子节点（如果它的子节点还有子节点的话）
-			numbers[y]=temp;
 		}
-		
+		numbers[s]=temp;
 	}
 	
 	/**

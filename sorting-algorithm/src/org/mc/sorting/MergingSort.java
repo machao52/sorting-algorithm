@@ -41,6 +41,39 @@ public class MergingSort {
 		}
 	}
 	
+	/**
+	 * 归并排序迭代版,效率高(推荐使用)
+	 */
+	public static void mergeSort(int [] numbers){
+		int k=1;
+		int [] TR=new int[numbers.length];
+		while(k<numbers.length-1){
+			mergePass(numbers,TR,k,numbers.length-1);
+			k=k*2;
+			mergePass(TR,numbers,k,numbers.length-1);
+			k=k*2;
+		}
+	}
+	/**
+	 * 从最小间隔1开始归并
+	 */
+	public static void mergePass(int [] SR,int []TR,int k, int n){
+		int i=0;
+		int j;
+		while(i<=n-2*k+1){
+			merge(SR,TR,i,i+k-1,i+2*k-1); //两两归并
+			i=i+2*k;
+		}
+		
+		if(i<n-k+1){ //归并最后两个序列
+			merge(SR,TR,i,i+k-1,n);
+		}else{
+			for(j=i;j<=n;j++){ //若最后只剩下单个子序列
+				TR[j]=SR[j];
+			}
+		}
+	}
+	
 	public static void merge(int [] SR,int [] TR,int s,int m,int n){
 		int j,k,c;
 		for(j=m+1,k=s;s<=m && j<=n;k++){
@@ -64,10 +97,14 @@ public class MergingSort {
 		}
 	}
 	
+	
+	
+	
 	public static void main(String[] args) {
-		int [] numbers = Numbers.NUMBERS2;
+		int [] numbers = Numbers.NUMBERS;
 		long startTime = System.nanoTime();
-		mergingSort(numbers, numbers, 0,numbers.length-1);
+		//mergingSort(numbers, numbers, 0,numbers.length-1);
+		//mergeSort(numbers);
 		long endTime = System.nanoTime();
 		System.out.println(Arrays.toString(numbers));
 		System.out.println("time: "+(endTime-startTime)+" ns");
