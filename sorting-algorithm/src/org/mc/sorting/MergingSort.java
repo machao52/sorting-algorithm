@@ -104,7 +104,7 @@ public class MergingSort {
 		int [] numbers = Numbers.NUMBERS;
 		long startTime = System.nanoTime();
 		//mergingSort(numbers, numbers, 0,numbers.length-1);
-		//mergeSort(numbers);
+		mergeSort(numbers);
 		long endTime = System.nanoTime();
 		System.out.println(Arrays.toString(numbers));
 		System.out.println("time: "+(endTime-startTime)+" ns");
