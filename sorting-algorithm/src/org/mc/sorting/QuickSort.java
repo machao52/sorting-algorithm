@@ -133,14 +133,29 @@ public class QuickSort {
 		}
 	}
 	
+	/**
+	 * 快速排序终极版,效率最高
+	 * @param numbers
+	 * @param low
+	 * @param high
+	 */
+	public static void quickSortFinal(int [] numbers,int low,int high){
+		int pivot;
+		while(low<high){
+			pivot=partitionOptimize(numbers, low, high);
+			quickSortFinal(numbers,low,pivot-1);
+			low=pivot+1;
+		}
+	}
 	
 	
 	
 	public static void main(String[] args) {
-		int [] numbers = Numbers.NUMBERS2;
+		int [] numbers = Numbers.NUMBERS;
 		long startTime = System.nanoTime();
 		//Qsort(numbers,0,numbers.length-1);
-		QsortOptimize(numbers, 0, numbers.length-1);
+		 QsortOptimize(numbers, 0, numbers.length-1);
+		//quickSortFinal(numbers, 0, numbers.length-1);
 		long endTime = System.nanoTime();
 		System.out.println(Arrays.toString(numbers));
 		System.out.println("time: "+(endTime-startTime)+" ns");
