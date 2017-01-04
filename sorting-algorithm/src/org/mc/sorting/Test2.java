@@ -157,11 +157,11 @@ public class Test2 {
 	public static void mergeSort(int [] numbers){
 		int [] TR=new int[numbers.length];
 		int k=1;
-		while(k<numbers.length-1){
+		while(k<numbers.length){
 			mergePass(numbers,TR,k,numbers.length-1);
-			k=k*2;
+			k=2*k;
 			mergePass(TR,numbers,k,numbers.length-1);
-			k=k*2;
+			k=2*k;
 		}
 	}
 	
@@ -174,8 +174,8 @@ public class Test2 {
 		if(i<n-s+1){
 			merge(SR,TR,i,i+s-1,n);
 		}else{
-			for(int y=i;y<=n;y++){
-				TR[y]=SR[y];
+			for(int j=i;j<=n;j++){
+				TR[j]=SR[j];
 			}
 		}
 	}
@@ -194,8 +194,8 @@ public class Test2 {
 			}
 		}
 		if(j<=n){
-			for(int c=0;c<n-j;c++){
-				TR[k+c]=SR[s+c];
+			for(int c=0;c<=n-j;c++){
+				TR[k+c]=SR[j+c];
 			}
 		}
 	}
@@ -214,7 +214,7 @@ public class Test2 {
 	}
 	
 	public static void main(String[] args) {
-		int [] numbers=Numbers.NUMBERS4;
+		int [] numbers=Numbers.NUMBERS;
 		long startTime=System.nanoTime();
 		//bubbleSort(numbers);
 		//selectSort(numbers);
