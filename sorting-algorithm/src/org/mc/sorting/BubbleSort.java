@@ -3,7 +3,7 @@ package org.mc.sorting;
 import java.util.Arrays;
 
 /**
- * @author machao 
+ * @author machao test10
  * Created in 2016/12/29
  * 冒泡排序: 两两比较相邻记录的关键字,如果反序则交换,直到没有反序的记录为止.
  * 时间复杂度: 理想的情况为O[n],总的时间复杂度为O[n^2]
