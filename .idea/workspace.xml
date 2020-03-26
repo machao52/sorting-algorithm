@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdf3c571-6195-4a3d-a9f6-3faa00142e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Sqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -91,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="304">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -212,6 +206,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev1" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -391,12 +390,12 @@
       <option name="presentableId" value="Default" />
       <updated>1584347684323</updated>
       <workItem from="1584347685698" duration="50247000" />
-      <workItem from="1585196258229" duration="16000" />
+      <workItem from="1585196258229" duration="187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50263000" />
+    <option name="totallyTimeSpent" value="50434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,7 +410,7 @@
     <frame x="0" y="0" width="1792" height="1120" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25257143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25257143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,7 +427,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -612,8 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="304">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
