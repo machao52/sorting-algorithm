@@ -14,6 +14,7 @@ public class Test4 {
         System.out.println("dd");
         System.out.println("ee");
         System.out.println("ff");
+        System.out.println("gg");
     }
 
 }
