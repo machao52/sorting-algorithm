@@ -5,63 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdf3c571-6195-4a3d-a9f6-3faa00142e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericParadigm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Reflex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/ReflexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/IOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/Out.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/OutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/IntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/TestAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/CountSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/HeapSortNew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/MergingSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Sqrt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/StraightInsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting-algorithm/org/mc/sorting/Test8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/CountSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/HeapSortNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/HeapSortNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/MergingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/MergingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/Sqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/StraightInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/StraightInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test8.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="463">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="e#1799#1800#0" expanded="true" />
               </folding>
@@ -129,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/Out.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="786">
-              <caret line="109" column="32" lean-forward="true" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+              <caret line="109" column="32" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
@@ -158,16 +105,16 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/IOut.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/ReflexTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="292">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,10 +123,102 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
+        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/IntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/TestAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#812#833#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/Check.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Deprecated.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Documented.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Retention.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+              <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="205" column="21" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="21" />
+              <folding>
+                <element signature="e#7249#7250#0" expanded="true" />
+                <element signature="e#7296#7297#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,7 +227,7 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Reflex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#197#198#0" expanded="true" />
@@ -239,8 +278,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="2124" column="18" selection-start-line="2124" selection-start-column="18" selection-end-line="2124" selection-end-column="18" />
+            <state relative-caret-position="197">
+              <caret line="3423" column="19" selection-start-line="3423" selection-start-column="19" selection-end-line="3423" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -267,7 +306,7 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Father.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -276,7 +315,7 @@
         <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Children.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -293,8 +332,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+            <state relative-caret-position="190">
+              <caret line="531" column="38" selection-start-line="531" selection-start-column="38" selection-end-line="531" selection-end-column="39" />
+              <folding>
+                <element signature="e#32532#32533#0" expanded="true" />
+                <element signature="e#32566#32567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="149" column="28" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -303,7 +355,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="8170">
-              <caret line="464" column="5" lean-forward="true" selection-start-line="464" selection-start-column="5" selection-end-line="464" selection-end-column="5" />
+              <caret line="464" column="5" selection-start-line="464" selection-start-column="5" selection-end-line="464" selection-end-column="5" />
               <folding>
                 <element signature="e#6283#6284#0" expanded="true" />
                 <element signature="e#6351#6352#0" expanded="true" />
@@ -320,7 +372,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
-              <caret line="3210" column="41" lean-forward="true" selection-start-line="3210" selection-start-column="41" selection-end-line="3210" selection-end-column="41" />
+              <caret line="3210" column="41" selection-start-line="3210" selection-start-column="41" selection-end-line="3210" selection-end-column="41" />
               <folding>
                 <element signature="e#177551#177552#0" expanded="true" />
                 <element signature="e#177591#177592#0" expanded="true" />
@@ -338,58 +390,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/GenericImpl1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1118">
-              <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
-              <folding>
-                <element signature="e#4677#4678#0" expanded="true" />
-                <element signature="e#4714#4715#0" expanded="true" />
-                <element signature="e#55800#55801#0" expanded="true" />
-                <element signature="e#55844#55845#0" expanded="true" />
-                <element signature="e#66457#66458#0" expanded="true" />
-                <element signature="e#66495#66496#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -397,6 +397,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -462,6 +463,9 @@
         <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/StringTest.java" />
         <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Reflex.java" />
         <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/ReflexTest.java" />
+        <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/IntegerTest.java" />
+        <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/Check.java" />
+        <option value="$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/TestAnnotation.java" />
       </list>
     </option>
   </component>
@@ -480,9 +484,16 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1792" />
-    <option name="height" value="1120" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -517,6 +528,14 @@
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sorting-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sorting-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -548,9 +567,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflexTest">
-    <configuration name="GenericParadigm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mc.sorting.base.GenericParadigm" />
+  <component name="RunManager" selected="Application.TestAnnotation$Test">
+    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mc.sorting.base.IntegerTest" />
       <module name="sorting-algorithm" />
       <extension name="coverage">
         <pattern>
@@ -601,12 +620,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.mc.sorting.Test9" />
+    <configuration name="TestAnnotation$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mc.sorting.base.annotation.TestAnnotation$Test" />
       <module name="sorting-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.mc.sorting.sort.*" />
+          <option name="PATTERN" value="org.mc.sorting.base.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -616,11 +635,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAnnotation$Test" />
+        <item itemvalue="Application.IntegerTest" />
         <item itemvalue="Application.ReflexTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.Out" />
-        <item itemvalue="Application.GenericParadigm" />
-        <item itemvalue="Application.Test9" />
       </list>
     </recent_temporary>
   </component>
@@ -637,12 +656,12 @@
       <workItem from="1584347685698" duration="50247000" />
       <workItem from="1585196258229" duration="187000" />
       <workItem from="1586941251353" duration="2258000" />
-      <workItem from="1589781021786" duration="46921000" />
+      <workItem from="1589781021786" duration="52924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123387000" />
+    <option name="totallyTimeSpent" value="129390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,7 +702,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.20285714" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -735,109 +754,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="396" selection-start-line="396" selection-end-line="396" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/OutOfMemoryError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
-          <folding>
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReferenceArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="325" column="23" selection-start-line="325" selection-start-column="23" selection-end-line="325" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="492" column="50" selection-start-line="492" selection-start-column="47" selection-end-line="492" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/IndexOutOfBoundsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-          <folding>
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6340">
-          <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#782#812#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/Test9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/sort/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -983,7 +899,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="3210" column="41" lean-forward="true" selection-start-line="3210" selection-start-column="41" selection-end-line="3210" selection-end-column="41" />
+          <caret line="3210" column="41" selection-start-line="3210" selection-start-column="41" selection-end-line="3210" selection-end-column="41" />
           <folding>
             <element signature="e#177551#177552#0" expanded="true" />
             <element signature="e#177591#177592#0" expanded="true" />
@@ -998,17 +914,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Children.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1029,7 +938,7 @@
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/Out.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="786">
-          <caret line="109" column="32" lean-forward="true" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+          <caret line="109" column="32" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
@@ -1056,7 +965,7 @@
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/innerClass/IOut.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1070,7 +979,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8170">
-          <caret line="464" column="5" lean-forward="true" selection-start-line="464" selection-start-column="5" selection-end-line="464" selection-end-column="5" />
+          <caret line="464" column="5" selection-start-line="464" selection-start-column="5" selection-end-line="464" selection-end-column="5" />
           <folding>
             <element signature="e#6283#6284#0" expanded="true" />
             <element signature="e#6351#6352#0" expanded="true" />
@@ -1106,13 +1015,6 @@
             <element signature="e#6650#6651#0" expanded="true" />
             <element signature="e#6695#6696#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="2124" column="18" selection-start-line="2124" selection-start-column="18" selection-end-line="2124" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1162,7 +1064,7 @@
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
           <folding>
             <element signature="e#1799#1800#0" expanded="true" />
           </folding>
@@ -1172,7 +1074,7 @@
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Reflex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
@@ -1189,23 +1091,132 @@
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/Father.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
-          <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+          <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/ReflexTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="292">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="149" column="28" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="531" column="38" selection-start-line="531" selection-start-column="38" selection-end-line="531" selection-end-column="39" />
+          <folding>
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting-algorithm/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Retention.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/annotation/Documented.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Deprecated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="3423" column="19" selection-start-line="3423" selection-start-column="19" selection-end-line="3423" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/IntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="205" column="21" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="21" />
+          <folding>
+            <element signature="e#7249#7250#0" expanded="true" />
+            <element signature="e#7296#7297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting-algorithm/src/org/mc/sorting/base/annotation/TestAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#812#833#0" expanded="true" />
           </folding>
         </state>
       </provider>
