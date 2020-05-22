@@ -1,5 +1,7 @@
 package org.mc.sorting;
 
+import org.mc.sorting.sort.Numbers;
+
 import java.util.Arrays;
 
 /**

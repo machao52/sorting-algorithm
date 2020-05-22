@@ -1,5 +1,7 @@
 package org.mc.sorting;
 
+import org.mc.sorting.sort.Numbers;
+
 import java.util.Arrays;
 
 public class Test3 {
@@ -222,7 +224,7 @@ public class Test3 {
 
 	
 	public static void main(String[] args) {
-		int [] numbers=Numbers.NUMBERS;
+		int [] numbers= Numbers.NUMBERS;
 		long startTime=System.nanoTime();
 		//bubbleSort(numbers);
 		//selectSort(numbers);

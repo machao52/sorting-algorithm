@@ -17,8 +17,8 @@ public class Test8 {
             list.add(i);
         }
         list.set(2,999);
-        list.remove(4);
-
+        list.add(999);
+        list.remove(Integer.valueOf(999));
         System.out.println(Arrays.toString(list.toArray()));
         int [] arr1=new int[109];
         for(int i=0;i<100;i++){
@@ -27,6 +27,9 @@ public class Test8 {
         System.out.println(Arrays.toString(arr1));
         System.arraycopy(arr1, 5, arr1, 5+1, 100-5);
         System.out.println(Arrays.toString(arr1));
+
+        System.out.println(list.getClass()==ArrayList.class);
+        System.out.println(list.getClass());
 
     }
 
