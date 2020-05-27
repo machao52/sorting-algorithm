@@ -118,6 +118,7 @@ public class StringTest {
         test13();
         String str = new String();
         System.out.println(str.equals(""));
+        System.out.println(args.length);
     }
 
 }
